@@ -1,2 +1,2 @@
-export const ReadURL = 'https://script.google.com/macros/s/AKfycbzDfknlFlkJY9AlvBrv7Om1TBX0JPs0_npNK7z4bkuSdrHxbiIS86aWVCEQzCA5B2Jb/exec'
+export const ReadURL = 'https://script.google.com/macros/s/AKfycbx5z3PjqvB7x0ba66Y4MZ-1swtG561NTfV7j8fCiw2EMtLxNumZVo2VMRO7cC5bOp8P/exec'
 export const SheetURL = "https://docs.google.com/spreadsheets/d/14iXr1pBNw0SCDslbp0Be_BX8YbZ6b1zG4BNT41kzSBs/edit#gid=1982491552"

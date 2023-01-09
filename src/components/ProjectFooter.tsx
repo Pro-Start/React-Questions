@@ -29,7 +29,7 @@ export const ProjectFooter = () => {
                 </div>
                 <div className="mb-6">
                     <p>
-                        React-Questions
+                        Interview-Questions
                     </p>
                 </div>
                 <div className="grid lg:grid-cols-4 md:grid-cols-2">
@@ -68,7 +68,7 @@ export const ProjectFooter = () => {
                 </div>
             </div>
             <div className="text-center p-4" >
-                © 2023 React-Questions
+                © 2023 Interview-Questions
             </div>
         </footer>
     )
