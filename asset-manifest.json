@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/React-Questions/static/css/main.1259e309.css",
-    "main.js": "/React-Questions/static/js/main.f19280e6.js",
-    "index.html": "/React-Questions/index.html",
-    "main.1259e309.css.map": "/React-Questions/static/css/main.1259e309.css.map",
-    "main.f19280e6.js.map": "/React-Questions/static/js/main.f19280e6.js.map"
+    "main.css": "/Interview-Questions/static/css/main.c7959dbf.css",
+    "main.js": "/Interview-Questions/static/js/main.faa48749.js",
+    "index.html": "/Interview-Questions/index.html",
+    "main.c7959dbf.css.map": "/Interview-Questions/static/css/main.c7959dbf.css.map",
+    "main.faa48749.js.map": "/Interview-Questions/static/js/main.faa48749.js.map"
   },
   "entrypoints": [
-    "static/css/main.1259e309.css",
-    "static/js/main.f19280e6.js"
+    "static/css/main.c7959dbf.css",
+    "static/js/main.faa48749.js"
   ]
 }
