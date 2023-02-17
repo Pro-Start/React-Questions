@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Questions/static/css/main.1259e309.css",
+    "main.js": "/React-Questions/static/js/main.f19280e6.js",
+    "index.html": "/React-Questions/index.html",
+    "main.1259e309.css.map": "/React-Questions/static/css/main.1259e309.css.map",
+    "main.f19280e6.js.map": "/React-Questions/static/js/main.f19280e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1259e309.css",
+    "static/js/main.f19280e6.js"
+  ]
+}
