@@ -16,3 +16,9 @@
     scroll-snap-align: center;
     flex: none;
 }
+
+.blurbkg {
+    z-index: 9999;
+    backdrop-filter: blur(1px);
+    -webkit-backdrop-filter: blur(1px);
+}
