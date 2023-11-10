@@ -1,8 +1,7 @@
 {
-  "name": "react-app",
+  "name": "qna",
   "version": "0.1.0",
-  "description": "Generated from https://github.com/Self-Generator/javaScript-frameworks",
-  "homepage": "https://ORG.github.io/Interview-Questions",
+  "description": "questions and answers",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
